@@ -26,7 +26,7 @@ int _b_motionSave         = false;
 unsigned long _ul_previousMillis = 0;  // will store last time LED was updated
 
 // constants won't change:
-const long c_l_shortDelay       = 5000;                    // interval at which to blink (milliseconds)
+const long c_l_shortDelay       = 5000;                    
 const long c_l_normalDelay      = 30000;
 const long c_l_standardDelay    = 15000;  
 const long c_l_longDelay        = 60000;
